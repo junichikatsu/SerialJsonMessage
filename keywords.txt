@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For HttpClient
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setValue	KEYWORD2
+send	KEYWORD2
+recv	KEYWORD2
+getValueInt	KEYWORD2
+getValueBool	KEYWORD2
+getValueFloat	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
